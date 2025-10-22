@@ -1,0 +1,9 @@
+# Handle React Router routes
+/products    /index.html   200
+/services    /index.html   200
+/news        /index.html   200
+/careers     /index.html   200
+/contact     /index.html   200
+
+# Redirect any other paths to home
+/*           /index.html   200
