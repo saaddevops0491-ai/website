@@ -56,14 +56,6 @@ The built files will be in the `dist` folder.
 - Upload the contents of the `dist` folder to your web server
 - Ensure proper routing configuration (`.htaccess` and `_redirects` files are included)
 
-## Environment Variables
-
-Create a `.env` file in the root directory with the following variables:
-
-```
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
 
 ## Project Structure
 
@@ -93,4 +85,3 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 - Tailwind CSS
 - React Router
 - Framer Motion
-- Supabase
